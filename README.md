@@ -60,3 +60,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Ojbectif 
+
+se familiarisé avec les concepts génériques d’un Framework, tels que :
+Le pattern (ou motif, ou paradigm) MVC, pour modèle – Vue – Contrôleur
+Les principes du routage, des vues, l’accès aux bases de données via un ORM (Object Relational mapping) 
+
+Fonctionnalité de l'application
+
+permettre à un utilisateur de demander via un formulaire une carte d’étudiant pour l’Ecole Nationale de Commerce.
+Les données saisies vont être persistées dans une base de données MySQL.
+
+Contenue
+
+Serveur laragon,HTML,CSS,PHP,Nodejs,Javascript
+
